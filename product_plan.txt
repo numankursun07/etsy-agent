@@ -1,0 +1,121 @@
+Etsy mağazanız için tasarlanmış, pazardaki sıradan şablonlardan ayrışan, özgün ve yüksek dönüşüm potansiyeline sahip **"Urban Jungle Botanical Care & Propagation Lab"** dijital ürün konsepti aşağıdadır.
+
+---
+
+### 1. Ürün Adı
+**Urban Jungle Botanical Care & Propagation Lab** *(Digital Interactive Planner & Printable Care System)*
+
+---
+
+### 2. Hedef Müşteri
+*   Evinde 10’dan fazla bitki bulunduran ve koleksiyonunu büyüten **"Plant Parent" (Bitki Ebeveyni)** kitlesi.
+*   Nadir türler (Aroid, Monstera, Anthurium vb.) yetiştiren ve hassas bakım süreçlerini takip etmek isteyen **bitki koleksiyonerleri**.
+*   Aşırı sulama veya yanlış ışıktan dolayı bitkilerini kaybetmekten korkan, **düzen ve estetiğe önem veren ev dekorasyonu tutkunları**.
+
+---
+
+### 3. Ürünün Temel Amacı
+Bitki severlerin karmaşık bakım süreçlerini (sulama, ışık yönlendirmesi, gübreleme dönemi, saksı değişimi) bilimsel ve estetik bir yöntemle **sistematize etmek**; çoğaltma (propagation) süreçlerindeki başarı oranını artırmak ve bitki hastalıklarına erken müdahale etmelerini sağlamak.
+
+---
+
+### 4. Ürün İçinde Bulunacak Sayfalar
+1.  **Ana İndeks & Dashboard (Botanical Hub)**
+2.  **Oda Bazlı Gün Işığı Haritalama Şablonu (Light Mapper)**
+3.  **Genel Bitki Envanteri (Plant Inventory & Profiling)**
+4.  **Bireysel Bitki Kimlik Kartı (Single Plant Care Sheet)**
+5.  **Dinamik Sulama ve Gübreleme Takip Çizelgesi**
+6.  **Çoğaltma Laboratuvarı Günlüğü (Propagation Lab Log)**
+7.  **Bitki Kliniği: Teşhis ve Müdahale Rehberi (Plant Hospital & Diagnostics)**
+8.  **Özel Toprak Karışımları ve Saksı Değişimi Günlüğü (Soil Mix & Repot Log)**
+9.  **İstek Listesi ve Bütçe Takibi (Wishlist & Expense Tracker)**
+
+---
+
+### 5. Her Sayfanın Kısa Açıklaması
+
+*   **1. Ana İndeks & Dashboard:** Tüm bölümlere tek tıkla ulaşmayı sağlayan interaktif köprülerin (hyperlink) ve hızlı not alanının bulunduğu kapak ve yönlendirme sayfası.
+*   **2. Light Mapper (Gün Işığı Haritası):** Evin odalarını (Kuzey/Güney/Doğu/Batı pencereleri) görselleştiren bir ızgara. Hangi odanın saat kaçta ne kadar doğrudan/dolaylı ışık aldığını haritalandırarak doğru bitkiyi doğru yere koymayı sağlar.
+*   **3. Bitki Envanteri:** Tüm bitkilerin listelendiği, konum, edinme tarihi, nadirlik derecesi ve mevcut sağlık durumunun ikonlarla işaretlendiği özet tablo.
+*   **4. Bireysel Bitki Kimlik Kartı:** Tek bir bitkiye odaklanan; ideal nem oranı, toprak türü, toksisite durumu (evcil hayvan güvenliği) ve fotoğraf/çizim alanının bulunduğu detaylı dosya.
+*   **5. Dinamik Bakım Takvimi:** Sabit gün bazlı değil, "toprak kuruma seviyesine" göre işaretleme yapılan, aşırı sulamayı (root rot) önleyen akıllı takip tablosu.
+*   **6. Çoğaltma Laboratuvarı Günlüğü:** Suda, yosunda veya toprakta yapılan çelik alma (cutting) işlemlerinin köklenme aşamalarını gün gün ve milimetre bazında takip eden deneysel sayfa.
+*   **7. Bitki Kliniği ve Teşhis Rehberi:** Sararan yapraklar, kahverengi lekeler veya zararlılar (pests) için görsel semptom tablosu ve müdahale adımları takip günlüğü.
+*   **8. Saksı Değişimi & Toprak Karışım Defteri:** Perlit, çam kabuğu, torf gibi bileşenlerle hazırlanan özel Aroid/Sukkulent toprak tariflerinin ve saksı büyütme tarihlerinin tutulduğu sayfa.
+*   **9. İstek Listesi & Bütçe Takibi:** Hedeflenen nadir bitkiler, harcama limiti ve bitki alışverişi yapılan mağazaların kaydı.
+
+---
+
+### 6. Ürünün Özgün Özellikleri
+
+1.  **Dairesel Işık Pusulası (Visual Light Compass):** Diğer ajandalardaki sadece "aydınlık/gölge" yazısı yerine, pencerelerin yönüne ve günün saatine göre ışık yoğunluğunu görselleştiren özgün grafik arayüz.
+2.  **Karar Ağacı Şeklinde Teşhis Rehberi (Visual Diagnostic Flowchart):** "Yaprak sararıyor mu? -> Toprak ıslak mı/kuru mu? -> Çözüm" şeklinde ilerleyen interaktif akış şeması.
+3.  **Çoğaltma Milat Takibi (Propagation Milestone Log):** İlk kök atımı, ilk yaprak patlaması gibi anları fotoğraflı veya tarihlendirerek takip etme imkanı.
+4.  **DIY Toprak Tarifi Karıştırıcısı:** Farklı bitki türleri için (Orkide, Ceropegia, Monstera) ideal drenaj oranını görsel dilimlerle gösteren şablon.
+
+---
+
+### 7. Dosya Yapısı
+
+Müşteriye indirme linki (PDF) veya ZIP dosyası olarak sunulacak yapı:
+
+```text
+Urban_Jungle_Planner_Bundle/
+│
+├── 01_Digital_Planner_Interactive (GoodNotes, Notability uyumlu, Köprülü PDF)
+│   ├── Light_Mode_Version.pdf
+│   └── Dark_Aesthetic_Version.pdf
+│
+├── 02_Printable_PDFs (Evde Baskıya Uygun - Mürekkep Dostu Minimalist)
+│   ├── A4_Format/
+│   └── US_Letter_Format/
+│
+├── 03_Digital_Sticker_Pack (Bonus Dijital Yapışkanlar)
+│   ├── PNG_Individual_Stickers/ (Bitki ikonları, su damlaları, zararlı böcek simgeleri)
+│   └── GoodNotes_Elements_File.goodnotes
+│
+└── 04_User_Guide_and_Plant_Care_Tips.pdf (Kullanım Kılavuzu & İpuçları)
+```
+
+---
+
+### 8. Müşterinin Ürünü Nasıl Kullanacağı
+
+*   **Dijital Kullanıcılar:** PDF dosyasını GoodNotes, Notability veya Xodo gibi uygulamalara aktarır. Sayfalar arasındaki köprülere (hyperlinks) dokunarak bitki kimlik kartından bakım takvimine saniyeler içinde geçer. Dijital çıkartmaları kopyala-yapıştır ile takvime ekler.
+*   **Fiziksel / Baskı Kullanıcıları:** "Printable" klasöründeki mürekkep tasarruflu PDF dosyalarını A4 veya US Letter boyutunda basar. Delgeçle delerek bir bitki klasörüne yerleştirir veya buzdolabına asarak kalemle takip eder.
+
+---
+
+### 9. Etsy'de Ürünün Değer Önerisi (Value Proposition)
+
+> **"Bitkilerinizi Aşırı Sulamaktan ve Yaprak Kayıplarından Kurtarın."**
+> 
+> *Urban Jungle Care & Propagation Lab*, sadece bir ajanda değil; evinizi sürdürülebilir bir botanik bahçesine dönüştüren kapsamlı bir kontrol sistemidir. Rastgele sulama yapmaya son verin, evinizin ışık haritasını çıkarın ve çelikten bitki çoğaltma başarınızı %100'e çıkarın. Hem GoodNotes ile tabletinizde interaktif olarak kullanın hem de evinizde basıp klasörleyin.
+
+---
+
+### 10. Adım Adım Üretim Planı
+
+#### 1. Aşama: Araştırma ve Taslak Tasarımı (1-2. Gün)
+*   Toprak karışımları, ışık gereksinimleri ve zararlı türleri ile ilgili botanik verilerini doğrula.
+*   Sayfa düzenlerini (Wireframe) kağıt üzerinde çiz; tıklanabilir link haritasını belirle.
+
+#### 2. Aşama: Görsel Tasarım ve Renk Paleti (3-5. Gün)
+*   **Canva veya Adobe InDesign/Illustrator** kullanarak şablonları tasırla.
+*   **Renk Paleti:** Adaçayı Yeşili (Sage Green), Sıcak Toprak Tonalrı (Terracotta), Krem/Bej (Warm Beige) ve Koyu Botanik Yeşili.
+*   Yazı tiplerinde okunabilir serif ve modern sans-serif kombinasyonu kullan.
+
+#### 3. Aşama: İnteraktif Yapının Kurulması (6. Gün)
+*   Adobe InDesign veya Keynote kullanarak tüm sayfalar arasında hızlı geçiş sağlayan köprüleri (hyperlinks) entegre et (Sekmeler, indekse dönüş butonları).
+
+#### 4. Aşama: Baskı Formatına Dönüştürme ve Dijital Çıkartmalar (7. Gün)
+*   Tasarımın renklerini baskıya uygun CMYK / mürekkep tasarruflu çizgi versiyonuna getir (Printable versiyon).
+*   Procreate veya Illustrator ile 30+ adet şirin ve işlevsel bitki çıkartması (PNG) çiz/tasarla.
+
+#### 5. Aşama: Etsy Pazarlama Materyallerinin Hazırlanması (8-9. Gün)
+*   iPad ve fiziksel baskı mock-up'ları oluştur.
+*   Görsel sunumda ürünün "Problem-Çözüm" odaklı özelliklerini öne çıkar (Örn: "Before: Root Rot / After: Thriving Jungle").
+*   Arama hacmi yüksek SEO kelimelerini (Plant care tracker, propagation log, indoor plant planner, GoodNotes plant journal) listeleme başlığına ve etiketlere ekle.
+
+#### 6. Aşama: Yükleme ve Satış (10. Gün)
+*   Tüm dosyaları düzenli bir Google Drive linki veya direkt Etsy dijital indirme dosyası olarak listelemeye bağla ve satışı başlat.

@@ -1,0 +1,199 @@
+İşte dijital tasarım araçlarında (Canva, Adobe InDesign, Illustrator vb.) doğrudan kullanabileceğiniz, özgün metinler ve sayfa yapısıyla hazırlanmış **"Urban Jungle Ev Bitkileri Bakım ve Çoğaltma Günlüğü"** içerik taslağı.
+
+---
+
+# 1. COVER (KAPAK SAYFASI)
+
+**[GÖRSEL YERLEŞİMİ: Minimalist Botanik İllüstrasyon / Monstera Yaprağı]**
+
+### URBAN JUNGLE
+**Botanical Care & Propagation Lab**
+*Ev Bitkileri Bakım, Işık Haritalama ve Çoğaltma Günlüğü*
+
+> *"Evinizi sürdürülebilir, sağlıklı ve estetik bir botanik bahçesine dönüştürün."*
+
+---
+**Bu Günlük Kimin Botanik Koleksiyonuna Aittir?**
+**Bitki Ebeveyninin Adı:** `[ Buraya İsim Yazınız ]`
+**Başlangıç Tarihi:** `[ Gün / Ay / Yıl ]`
+**Koleksiyondaki Hedef Bitki Sayısı:** `[ ... ]`
+
+---
+
+# 2. DASHBOARD (ANA İNDEKS & KONTROL PANELİ)
+
+### 🌿 BOTANIK KONTROL MERKEZİ
+
+**HIZLI ERİŞİM MENÜSÜ**
+*(Dijital versiyonda bu alanlar ilgili sayfalara köprülü -hyperlink- butonlar olarak çalışır)*
+
+*   [ 01 ] 📑 Bitki Koleksiyonu & Envanter
+*   [ 02 ] ☀️ Gün Işığı Haritası (Light Mapper)
+*   [ 03 ] 💧 Dinamik Bakım & Sulama Takvimi
+*   [ 04 ] 🔬 Çoğaltma Laboratuvarı Günlüğü
+*   [ 05 ] 🩺 Bitki Kliniği & Teşhis Rehberi
+*   [ 06 ] 🪴 Toprak Karışımı & Saksı Değişimi
+*   [ 07 ] 📊 Aylık Değerlendirme & Rapor
+*   [ 08 ] 🛍️ İstek Listesi & Bütçe Takibi
+
+---
+
+#### 📌 AYLIK HIZLI BAKIŞ
+*   **Aktif Bitki Sayısı:** `[  ]`
+*   **Çoğaltma Aşamasındakiler:** `[  ]`
+*   **Klinikteki / Takipteki Bitkiler:** `[  ]`
+*   **Bu Ay Saksısı Değişecekler:** `[  ]`
+
+#### 📝 HAFTALIK BOTANİK NOTLARI & HATIRLATMALAR
+`[ Bu alana bu hafta yapılacak genel nem kontrolü, yaprak silme veya özel gözlemlerinizi not edin. ]`
+
+---
+
+# 3. PLANT COLLECTION (GENEL BİTKİ ENVANTERİ & KİMLİK KARTI)
+
+*(Bu bölüm iki formattan oluşur: Genel Liste Tablosu ve Bireysel Kimlik Kartı)*
+
+### BÖLÜM A: BİTKİ ENVANTER TABLOSU
+
+| ID | Bitki Adı / Lakabı | Botanik Türü | Konum / Oda | Işık İhtiyacı | Sulama Derecesi | Durum (Sağlık) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| #01 | *Örn: Dev Monstera* | *Monstera Deliciosa* | *Salon (Güney)* | *Parlak Dolaylı* | *Üst Toprak Kuruyunca* | 🟢 Mükemmel |
+| #02 | | | | | | 🟡 Takipte |
+| #03 | | | | | | 🔴 Müdahale Lazım |
+
+---
+
+### BÖLÜM B: BİREYSEL BİTKİ KİMLİK KARTI (Single Plant Sheet)
+
+**[ FOTOĞRAF / ÇİZİM ALANI ]**
+
+*   **Bitki Kodu / ID:** `#______`
+*   **Verilen İsim / Lakap:** `____________________`
+*   **Botanik Adı (Tür):** `____________________`
+*   **Edinme Tarihi & Kaynak:** `[ Tarih ]` / `[ Mağaza / Hediye / Çelik ]`
+
+**İDEAL YAŞAM KOŞULLARI**
+*   **Bulunduğu Oda / Yer:** `____________________`
+*   **Işık İhtiyacı:** `[ ] Doğrudan Güneş` | `[ ] Parlak Dolaylı` | `[ ] Yarı Gölge` | `[ ] Düşük Işık`
+*   **Sulama Mantığı:** `[ ] Toprak Tamamen Kuruyunca` | `[ ] Üst 2-3 cm Kuruyunca` | `[ ] Daima Nemli`
+*   **İdeal Nem Oranı:** `%____` ve üzeri
+*   **Evcil Hayvan Güvenliği (Toksisite):** `[ ] Güvenli (Pet-Friendly)` | `[ ] Toksik / Tehlikeli`
+
+**ÖZEL BAKIM NOTLARI & TERCİHLER**
+*   **Sevdiği Toprak Tipi:** `____________________`
+*   **Besin / Gübre İhtiyacı:** `____________________`
+*   **Geçirdiği Hastalıklar / Hassasiyetler:** `____________________`
+
+---
+
+# 4. PLANT CARE LOG (DİNAMİK BAKIM TAKİP ÇİZELGESİ)
+
+> **İpucu:** Bitkilerinizi sabit günlerde değil, toprağın nem ihtiyacına göre sulayın. Aşağıdaki çizelgeye sadece işlem yaptığınız günleri kaydedin.
+
+| Tarih | Bitki Adı / ID | Yapılan İşlem (Sulama / Gübre / Budama / Temizlik) | Kullanılan Takviye / Doz | Toprak Nem Seviyesi | Gözlem ve Notlar |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| *04/10* | *#01 Monstera* | *Sulama + Fısfıs* | *Sadece Dinlenmiş Su* | *Tamamen Kurumuş* | *Yeni bir yaprak patlaması var.* |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+---
+
+# 5. PROPAGATION LOG (ÇOĞALTMA LABORATUVARI GÜNLÜĞÜ)
+
+### 🔬 ÇOĞALTMA DENEY DOKÜMANI
+
+*   **Deney No:** `#PROP-______`
+*   **Ana Bitki Adı:** `____________________`
+*   **Çoğaltma Yöntemi:**
+    `[ ] Suda Kökledirme` | `[ ] Su Yosunu (Sphagnum Moss)` | `[ ] Perlit / Vermikülit` | `[ ] Doğrudan Toprak` | `[ ] Hava Katlama (Air Layering)`
+*   **Çelik Alma Tarihi:** `[ ..../..../202... ]`
+*   **Kullanılan Hormon / Takviye:** `[ ] Yok` | `[ ] Tarçın` | `[ ] Kökledirme Tozu` | `[ ] Diğer: ______`
+
+**GELIŞIM MIHALTAŞLARI (MILESTONES)**
+
+| Aşamalar | Tarih | Kök / Gelişim Boyutu (mm/cm) | Görsel Durum / Notlar |
+| :--- | :--- | :--- | :--- |
+| **İlk İcallanma / Suya Alma** | | - | *Çelik sağlıklı kesildi.* |
+| **İlk Kök Ucu Göründü** | | | |
+| **Sekonder Kök Yapılanması**| | | |
+| **Toprağa Aktarım Günü** | | | |
+
+*   **Sonuç:** `[ ] Başarılı (Saksılandı)` | `[ ] Gelişim Devam Ediyor` | `[ ] Çürüdü / Başarısız`
+*   **Öğrenilen Ders / Deneyim:** `________________________________________`
+
+---
+
+# 6. LIGHT MAPPING (ODA BAZLI GÜN IŞIĞI HARİTASI)
+
+> **Nasıl Kullanılır?** Günün farklı saatlerinde (09:00, 13:00, 17:00) pencerelerinizin aldığı ışık türünü gözlemleyin ve haritanızı oluşturun.
+
+### 🏠 ODA ANALİZ FORMU
+
+*   **Oda Adı:** `[ Örn: Yatak Odası / Mutfak ]`
+*   **Pencere Yönü:** `[ ] Kuzey` | `[ ] Güney` | `[ ] Doğu` | `[ ] Batı`
+*   **Pencere Önü Engelleri:** `[ ] Yok` | `[ ] Perde / Tül` | `[ ] Dış Bina / Ağaç Shadow`
+
+**SAAT BAZLI IŞIK YOĞUNLUĞU**
+*   **Sabah (08:00 - 11:00):** `[ ] Doğrudan Güneş` | `[ ] Parlak Dolaylı` | `[ ] Gölge`
+*   **Öğle (11:00 - 15:00):** `[ ] Doğrudan Güneş` | `[ ] Parlak Dolaylı` | `[ ] Gölge`
+*   **Akşamüstü (15:00 - 18:00):** `[ ] Doğrudan Güneş` | `[ ] Parlak Dolaylı` | `[ ] Gölge`
+
+**BU BÖLGE İÇİN UYGUN BİTKİ ADAYLARI**
+`[ Örneğin: Güney penceresinden 1.5 metre uzaktaki bu alan Aroid türleri ve Calathea'lar için ideal parlak dolaylı ışık sağlıyor. ]`
+
+---
+
+# 7. PLANT HEALTH GUIDE (BİTKİ KLİNİĞİ VE TEŞHİS REHBERİ)
+
+> ⚠️ **Sorumluluk Reddi Beyanı:** Bu bölümde yer alan bilgiler genel botanik deneyimlerine dayanmaktadır. Bitki hastalıkları çevresel faktörlere göre değişkenlik gösterebilir; teşhislerde %100 kesinlik garanti edilmez.
+
+---
+
+### YAYGIN PROBLEM 1: Yapraklarda Sararma (Yellowing Leaves)
+*   **Görsel Belirtiler:** Alt yapraklardan başlayan yumuşak sararma veya tüm yaprağa yayılan solgun sarı renk.
+*   **Olası Nedenler:** Aşırı sulama (kök çürümesi riski), drenaj yetersizliği veya toprakta azot eksikliği.
+*   **Genel Çözüm Önerisi:** Toprağın kurumasını bekleyin. Saksı altındaki tabağı kontrol edin. Kökleri inceleyin; siyah ve yumuşak kökler varsa budayıp toprağı tazeleyin.
+*   **Ne Zaman Uzman Desteği Alınmalı?** Sararma 48 saat içinde tüm gövdeye yayılırsa veya köklerden kötü bir koku geliyorsa ziraat/botanik uzmanına danışılmalıdır.
+
+---
+
+### YAYGIN PROBLEM 2: Kahverengi ve Kuru Yaprak Uçları
+*   **Görsel Belirtiler:** Yaprak uçlarının çıtır çıtır kuruması, kahverengileşmesi.
+*   **Olası Nedenler:** Düşük ortam nemi, şebeke suyundaki kireç/kimyasallar, yetersiz sulama.
+*   **Genel Çözüm Önerisi:** Sulama suyunu en az 24 saat dinlendirin. Nem cihazı veya çakıllı su tepsisi kullanın.
+*   **Ne Zaman Uzman Desteği Alınmalı?** Kahverengileşme kuru değil, ıslak/vıcık vıcık bir leke şeklinde genişliyorsa (bakteriyel leke şüphesi).
+
+---
+
+### YAYGIN PROBLEM 3: Unlu Bit ve Pamuksu Lekeler (Mealybugs)
+*   **Görsel Belirtiler:** Yaprak koltuklarında veya yaprak arkalarında beyaz, pamuk benzeri birikintiler.
+*   **Olası Nedenler:** Yüksek nem ve durgun hava akımı, dışarıdan yeni gelen enfekte bitki.
+*   **Genel Çözüm Önerisi:** Bitkiyi derhal diğerlerinden **izole edin**. İzolasyon sonrası pamuklu çubuğu alkole batırarak görünür zararlıları temizleyin. Neem yağı (tesbih ağacı yağı) solüsyonu uygulayın.
+*   **Ne Zaman Uzman Desteği Alınmalı?** İzolasyona ve organik müdahaleye rağmen 2 hafta içinde alan genişliyorsa sistemik insektisit kullanımı için uzmana başvurun.
+
+---
+
+# 8. MONTHLY REVIEW (AYLIK BOTANİK DEĞERLENDİRME)
+
+**DÖNEM:** `[ Ay: ____________ / Yıl: ________ ]`
+
+### 🌟 AYIN BOTANİK YILDIZLARI
+*(Bu ay en çok büyüyen, yeni yaprak veren veya en sağlıklı gelişen bitkiler)*
+1. `________________________________________`
+2. `________________________________________`
+
+### ⚠️ ZORLANAN / REHABİLİTASYONDAKİ BİTKİLER
+*(Sarı yaprak veren, zararlı mücadelesi gören veya yeri değiştirilenler)*
+1. `________________________________________`
+2. `________________________________________`
+
+### 🛠️ BU AY TAMAMLANAN MAJÖR BAKIMLAR
+*   `[ ]` Saksı değişimi yapılan bitkiler: `____________________`
+*   `[ ]` Toprak tazelemesi yapılanlar: `____________________`
+*   `[ ]` Genel yaprak temizliği ve pestisit kontrolü yapıldı mı? `[ ] Evet [ ] Hayır`
+
+### 🎯 GELECEK AYIN BOTANİK HEDEFLERİ
+1. `________________________________________`
+2. `________________________________________`
+3. `________________________________________`

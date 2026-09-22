@@ -1,0 +1,148 @@
+Harika bir dijital ürün konsepti! Verilen plan doğrultusunda Etsy’de yüksek dönüşüm sağlayacak, profesyonel, özgün ve Etsy standartlarına uygun listing (listeleme) taslağı aşağıdadır.
+
+---
+
+### 1. Etsy Ürün Başlığı (Product Title)
+*(Etsy'de arama yapan kullanıcıların büyük çoğunluğu İngilizce arama yaptığı için başlık İngilizce optimize edilmiştir; bu, küresel satışlar için Etsy'de standart ve en etkili yöntemdir.)*
+
+**Digital Plant Care Planner, GoodNotes Houseplant Tracker, Interactive Propagation Journal, Printable Plant Care Sheet & Inventory Log**
+
+---
+
+### 2. Ürün Açıklaması (Product Description)
+
+**Aşırı sulamadan dolayı bitkilerinizi kaybetmekten veya hangi bitkinize ne zaman bakım yaptığınızı unutmaktan yoruldunuz mu?**
+
+Nadir Aroid koleksiyonunuzu büyütürken veya evinizdeki yeşil dostlarınızın bakımını yaparken tahminlerle hareket etmek zorunda değilsiniz. Yaprak sararmaları, unutulan saksı değişimleri ve başarısız çoğaltma (propagation) denemeleri artık geride kaldı.
+
+**Urban Jungle Botanical Care & Propagation Lab** ile tanışın! Bu sistem, sıradan bir ajandadan çok daha fazlası; evinizi sürdürülebilir, sağlıklı ve estetik bir botanik bahçesine dönüştürmek için tasarlanmış bilimsel ve görsel bir bakım asistanıdır.
+
+---
+
+🌱 **İÇERİKTE NELER VAR? (9 Özel Sayfa Tasarımı)**
+
+*   **Botanical Hub (Ana Dashboard):** Tüm sayfalara tek tıkla ulaşmanızı sağlayan interaktif navigasyon merkezi.
+*   **Visual Light Mapper (Gün Işığı Haritası):** Evinizin pencerelerine göre ışık açılarını haritalandırın, her bitkiyi doğru ışıkla buluşturun.
+*   **Genel Bitki Envanteri:** Tüm koleksiyonunuzu, nadirlik derecelerini ve sağlık durumlarını tek bakışta görün.
+*   **Bireysel Bitki Kimlik Kartı:** Bitkinizin ideal nem, toprak, toksisite (evcil hayvan güvenliği) bilgilerini saklayın.
+*   **Dinamik Bakım Takvimi:** Sabit günlere değil, toprağın kuruma seviyesine göre çalışan akıllı sulama ve gübreleme takipçisi.
+*   **Çoğaltma Laboratuvarı Günlüğü (Propagation Log):** Suda/toprakta köklendirdiğiniz çeliklerin gelişimini gün gün ve mm bazında takip edin.
+*   **Bitki Kliniği & Teşhis Rehberi (Plant Hospital):** Sararan yapraklar ve zararlılar için karar ağacı akış şeması ile hızlı müdahale edin.
+*   **Saksı Değişimi & DIY Toprak Karışım Defteri:** Orkide, Aroid ve Sukkulentler için ideal drenaj oranları ve karışım tarifleri.
+*   **İstek Listesi & Bütçe Takibi:** Nadir bitki hedeflerinizi ve harcamalarınızı kontrol altında tutun.
+
+---
+
+📁 **TESLİM EDİLECEK DOSYA FORMATLARI**
+
+İndirme dosyanız (ZIP) aşağıdaki tüm formatları içerir:
+1.  **İnteraktif Dijital Planner (PDF):** GoodNotes, Notability, Xodo vb. uygulamalarla tam uyumlu (Tıklanabilir köprü sekmeleri ile). *Light Mode ve Dark Aesthetic versiyonları dahildir.*
+2.  **Yazdırılabilir PDF (Printable):** Mürekkep dostu, minimalist tasarım. Hem **A4** hem de **US Letter** boyutlarında.
+3.  **Dijital Çıkartma Paketi (Digital Stickers):** Kırpılmış şeffaf PNG formatında bitki ikonları, su damlaları ve bakım simgeleri + `.goodnotes` ögeler dosyası.
+4.  **Kullanım Kılavuzu (PDF):** Kurulum ve efektif kullanım ipuçları rehberi.
+
+---
+
+⚠️ **ÖNEMLİ NOT (LÜTFEN OKUYUN)**
+*   **Bu ürün DİJİTAL BİR ÜRÜNDÜR.** Adresinize fiziksel bir ürün, kargo veya kağıit baskı GÖNDERİLMEYECEKTİR.
+*   Satın alma işleminden hemen sonra dosyalarınızı Etsy hesabınızın "Purchases and Reviews" (Satın Almalar ve Değerlendirmeler) bölümünden indirebilirsiniz.
+
+---
+
+💡 **NASIL KULLANILIR?**
+
+*   **Tablet/Dijital Kullanıcıları:** Indirdiğiniz PDF dosyasını GoodNotes, Notability veya tercih ettiğiniz PDF not alma uygulamasına aktarın. Sekmelere dokunarak sayfalar arasında anında geçiş yapın.
+*   **Kağıt/Baskı Kullanıcıları:** "Printable" klasöründeki dosyayı A4 veya US Letter kağıdına yazdırın. Klasörünüze ekleyin veya buzdolabınıza asarak kalemle doldurun.
+
+---
+
+### 3. Etsy Etiketleri (Etsy Tags - Max 13)
+
+1. plant care planner
+2. plant journal
+3. goodnotes planner
+4. houseplant tracker
+5. propagation log
+6. digital plant log
+7. printable plant sheet
+8. plant care journal
+9. plant inventory pdf
+10. aroid care guide
+11. indoor plant log
+12. plant lover gift
+13. botanical planner
+
+---
+
+### 4. Ürün Kategorisi Önerisi
+
+*   **Kategori:** Paper & Party Supplies > Paper > Calendars & Planners *(veya dijital odaklı kategorizasyon için: Craft Supplies & Tools > Digital)*
+
+---
+
+### 5. Dijital Dosya Teslim Listesi
+
+Müşterinin ödeme sonrası indireceği ana ZIP dosyası veya PDF indirme bağlantı belgesi içeriği:
+
+1. `Urban_Jungle_Interactive_Planner_Light.pdf` (Köprülü Dijital PDF)
+2. `Urban_Jungle_Interactive_Planner_Dark.pdf` (Köprülü Dijital PDF)
+3. `Printable_A4_Plant_Care_System.pdf` (Evde Baskı - A4)
+4. `Printable_USLetter_Plant_Care_System.pdf` (Evde Baskı - US Letter)
+5. `Digital_Stickers_PNG.zip` (Ayrı şeffaf PNG ikonlar)
+6. `Stickers_GoodNotes_Elements.goodnotes` (GoodNotes kullanıcıları için)
+7. `User_Guide_And_Tips.pdf` (Kullanım Kılavuzu)
+
+---
+
+### 6. 5 Adet Etsy Görseli Önerisi
+
+*   **Görsel 1 (Main Thumbnail / Vitrin Görseli):**
+    *   *Gösterilecekler:* Ahşap bir masa üzerinde iPad ekranında açık duran renkli planner (Light Mapper sayfası) ve yanında evde basılmış, klipse takılı kağıt versiyonu. Etrafta saksı bitkileri (Monstera vb.).
+    *   *Üzerindeki Metin:* **Urban Jungle Plant Care System | Interactive Digital & Printable Planner**
+
+*   **Görsel 2 (Öne Çıkan Özellik - Teşhis ve Işık Haritası):**
+    *   *Gösterilecekler:* "Visual Light Compass" ve "Plant Hospital Decision Tree" sayfalarının yakın çekim ekran görüntüleri.
+    *   *Üzerindeki Metin:* **No More Dead Plants! Visual Light Mapping & Symptom Diagnostics**
+
+*   **Görsel 3 (Çoğaltma Laboratuvarı / Propagation Log):**
+    *   *Gösterilecekler:* Cam kavanozda köklenen bir bitki çeliği fotoğrafı ve yanında "Propagation Lab Log" sayfasının kök ölçüm tablosu.
+    *   *Üzerindeki Metin:* **Track Your Propagation Success | From Cutting to Rooting**
+
+*   **Görsel 4 (Dijital vs Baskı Uyumluluğu):**
+    *   *Gösterilecekler:* Görsel ikiye bölünmüş: Sol tarafta GoodNotes arayüzü ve dijital kalem; sağ tarafta basılı kağıt üzerine tükenmez kalemle yazılmış sayfa.
+    *   *Üzerindeki Metin:* **Use on iPad / Tablet OR Print at Home (A4 & US Letter)**
+
+*   **Görsel 5 (Bonuslar ve Dosya İçeriği):**
+    *   *Gösterilecekler:* Dijital sticker paketinin görselleri, toprak karıştırma rehberi şablonu ve kullanım kılavuzu kapağı.
+    *   *Üzerindeki Metin:* **INCLUDES: 30+ Digital Stickers + DIY Soil Mix Guide + User Manual**
+
+---
+
+### 7. Müşteri SSS (FAQ) Bölümü
+
+**S1: Bu ürünü kullanmak için ücretli bir uygulamaya ihtiyacım var mı?**
+*Cevap:* Dijital kullanım için GoodNotes, Notability, Xodo veya Noteshelf gibi PDF not alma uygulamalarından birine ihtiyacınız vardır (çoğunun ücretsiz sürümleri mevcuttur). Ancak ürünü sadece evinizde yazdırıp kağıt üzerinde kullanmak isterseniz hiçbir uygulamaya ihtiyacınız yoktur.
+
+**S2: Ürün bana kargo ile gönderilecek mi?**
+*Cevap:* Hayır. Bu tamamen dijital bir üründür. Satın alma işleminizin ardından indirme bağlantılarına anında erişebilirsiniz. Adresinize fiziksel bir paket gönderilmeyecektir.
+
+**S3: Evdeki yazıcımdan çıktı alabilir miyim?**
+*Cevap:* Evet! Paket içeriğinde mürekkep tasarrufu sağlayan, minimalist siyah-beyaz çizgi hatlarına sahip A4 ve US Letter boyutlarında özel baskı dosyaları bulunmaktadır.
+
+**S4: Dijital planner'daki sekmeler (köprüler) nasıl çalışır?**
+*Cevap:* Kullanmakta olduğunuz PDF uygulamasında "Okuma / Navigation" modunu açtığınızda, sayfa kenarlarındaki sekmelere veya indeksteki başlıklara dokunarak ilgili sayfaya anında geçebilirsiniz.
+
+**S5: Satın aldıktan sonra dosyalarıma nasıl ulaşabilirim?**
+*Cevap:* Ödemeniz onaylandıktan sonra Etsy hesabınızın "Purchases and Reviews" (Satın Almalar ve Değerlendirmeler) sekmesine giderek "Download Files" (Dosyaları İndir) butonuna tıklamanız yeterlidir.
+
+---
+
+### 8. Kalite Kontrol Listesi (Yayınlamadan Önce)
+
+* [ ] **Köprü (Hyperlink) Kontrolü:** Tüm sekmelerin ve indeks bağlantılarının doğru sayfalara yönlendirdiğinden emin olundu mu?
+* [ ] **Yazım ve Dilbilgisi:** Başlık, açıklama ve dosya içi metinlerdeki İngilizce/Türkçe terimler kontrol edildi mi?
+* [ ] **Dosya Boyutları:** Etsy'nin dosya yükleme sınırına (Dosya başı maks 20 MB) uyuldu mu? Büyük dosyalar için indirme PDF'i (Drive/Dropbox linki) düzgün çalışıyor mu?
+* [ ] **Baskı Testi:** Printable PDF versiyonu ev yazıcısında test edilip kenar boşlukları (margins) kontrol edildi mi?
+* [ ] **Dijital Uyum:** PNG çıkartmaların arka planlarının gerçekten şeffaf olduğu doğrulandı mı?
+* [ ] **Görseller:** Listeleme görsellerinin Etsy mobil uygulamasında ve masaüstünde net/okunabilir olduğu kontrol edildi mi?
+* [ ] **Dijital Ürün Uyarısı:** Açıklamada ve görsellerde ürünün "Instant Download / Digital Product" olduğu açıkça belirtildi mi?

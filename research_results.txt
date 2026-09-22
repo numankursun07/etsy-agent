@@ -1,0 +1,41 @@
+Merhaba! Gerçek satış verilerine dayanmayan, pazardaki spesifik ihtiyaçlara odaklanarak fark yaratabileceğiniz 5 özgün dijital ürün fikri:
+
+---
+
+### 1. DEHB (ADHD) Uyumlu Enerji Seviyeli Günlük Rutin Kartları
+* **Hedef Müşteri:** DEHB tanısı olan yetişkinler, nöroçeşitli bireyler ve odaklanma güçlüğü çekenler.
+* **Çözdüğü Problem:** Aşırı zihinsel yüklenme (overwhelm) ve zaman körlüğü nedeniyle rutin oluşturamama.
+* **Ürün Formatı:** Canva ile düzenlenebilir dijital/yazdırılabilir kartlar (Printable Flashcards).
+* **Özgünleştirme Fikri:** Kartları zamana göre değil, "Düşük Enerji", "Orta Enerji" ve "Yüksek Enerji" günlerine göre renk kodlarıyla ayırmak ve mikro adımlara bölmek.
+
+---
+
+### 2. Mikro-Kreatifler (Dövme Sanatçısı, Seramikçi vb.) İçin Sipariş & Telif Takipçisi
+* **Hedef Müşteri:** Karmaşık muhasebe programı kullanmak istemeyen bağımsız zanaatkarlar ve sanatçılar.
+* **Çözdüğü Problem:** Sipariş durumu, malzeme maliyeti, kaparo takibi ve tasarım haklarının/teliflerinin tek bir yerden yönetilememesi.
+* **Ürün Formatı:** Google Sheets / Excel Şablonu.
+* **Özgünleştirme Fikri:** Görsel portföy bağlantısı, malzeme kullanımına göre otomatik kar marjı hesaplayıcı ve müşteri onay formu şablonu eklemek.
+
+---
+
+### 3. Sürdürülebilir Ev ve Sıfır Atık Mutfak Takipçisi
+* **Hedef Müşteri:** Doğa dostu yaşayanlar, gıda israfını azaltmak ve ev bütçesini korumak isteyen aileler.
+* **Çözdüğü Problem:** Mutfaktaki gıdaların son kullanma tarihlerinin unutulması ve sürekli fazla alışveriş yapılması.
+* **Ürün Formatı:** Notion Şablonu veya Etkileşimli PDF.
+* **Özgünleştirme Fikri:** İçine "Mevsimsel Yerel Gıda Takvimi" ve elde kalan malzemelerle yemek fikri üreten pratik kombinasyon rehberi dahil etmek.
+
+---
+
+### 4. Dijital Göçebe (Digital Nomad) Ülke Değişim ve Taşınma Kitı
+* **Hedef Müşteri:** Uzaktan çalışan ve sık ülke/şehir değiştiren dijital göçebeler.
+* **Çözdüğü Problem:** Vize süreçleri, konaklama, yerel SIM kart, vergi sorumlulukları ve taşınma bütçesinin dağınıklığı.
+* **Ürün Formatı:** Goodnotes/Notability uyumlu Dijital Defter (Hyperlinked PDF).
+* **Özgünleştirme Fikri:** Gidilecek ülkenin yaşam maliyetini anlık kurla karşılaştıran mini bütçe hesaplama aracı ve "İlk 72 Saat Acil Durum Checklist"i eklemek.
+
+---
+
+### 5. "Urban Jungle" Ev Bitkileri Bakım ve Çoğaltma Günlüğü
+* **Hedef Müşteri:** Evinde çok sayıda bitki yetiştiren (bitki ebeveynleri) ve koleksiyonerler.
+* **Çözdüğü Problem:** Bitkilerin sulama/gübreleme takvimini karıştırma ve çoğaltma (propagation) süreçlerini takip edememe.
+* **Ürün Formatı:** Dijital Planlayıcı (Digital Planner) ve Yazdırılabilir Sayfalar.
+* **Özgünleştirme Fikri:** Yaygın bitki hastalıkları için görsel Teşhis & Çözüm rehberi ve evin odalarına göre "Gün Işığı Haritalama" şablonu sunmak.
